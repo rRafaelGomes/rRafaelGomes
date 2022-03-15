@@ -1,6 +1,5 @@
 ## Olá! Meu nome é Rafael Almeida, sou estudande de Ciência da Computação!
 
-Pronomes: ele/dele
 
  <div align="center">
   <a href="https://github.com/rrafaelgomes">

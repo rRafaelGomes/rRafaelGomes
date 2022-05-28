@@ -1,4 +1,4 @@
-## Olá! Meu nome é Rafael Almeida, sou estudande de Ciência da Computação!
+## Olá! Meu nome é Rafael, sou estudande de Ciência da Computação!
 
 
  <div align="center">

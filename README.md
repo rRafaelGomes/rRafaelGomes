@@ -7,15 +7,15 @@
 - 🔭 I am currently working on my development at the Faculty
 - 📫 Professional email: rafael.gomes.25022003@gmail.com
 
-<div align="center">
-  <a href="https://github.com/rrafaelgomes">
+<div>
+  <a href="https://github.com/rRafaelGomes">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=rrafaelgomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="237em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrafaelgomes&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ## 💻 Tech Stack
 
-<div style="display: inline_block">
+<div>
   <img align="center" alt="rrafaelgomes-Html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="rrafaelgomes-Css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="rrafaelgomes-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">

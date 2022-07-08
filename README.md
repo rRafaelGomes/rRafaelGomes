@@ -9,20 +9,20 @@
 
 <div>
   <a href="https://github.com/rRafaelGomes">
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=rrafaelgomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="237em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrafaelgomes&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=rRafaelGomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="237em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rRafaelGomes&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ## 💻 Tech Stack
 
-<div>
+<div style="display: inline_block">
   <img align="center" alt="rrafaelgomes-Html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="rrafaelgomes-Css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="rrafaelgomes-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="rrafaelgomes-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
   <img align="center" alt="rrafaelgomes-Unity" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"> 
   
- 
+  
   
   <img align="center" alt="rrafaelgomes-Canva" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
   <img align="center" alt="rrafaelgomes-Figma" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">

@@ -1,7 +1,7 @@
 ## Welcome to my profile! 👋
 
 - My name is Rafael Gomes de Almeida
-- I'm 23 years old
+- I'm 19 years old
 - Brazilian <br>
 - I am currently learning JavaScript and C#
 - 🔭 I am currently working on my development at the Faculty

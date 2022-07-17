@@ -1,9 +1,5 @@
 ## Welcome to my profile! My name is Rafael Gomes de Almeida 👋
 
-- I'm 19 years old
-- Brazilian
-- I am currently learning JavaScript and C#
-- 🔭 I am currently working on my development at the Faculty
 - 📫 Professional email: rafael.gomes.25022003@gmail.com
 
 <div>

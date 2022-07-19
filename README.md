@@ -11,17 +11,17 @@
 ## 💻 Tech Stack
 
 <div style="display: inline_block">
-  <img align="center" alt="rrafaelgomes-Html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="rrafaelgomes-Css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="rrafaelgomes-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="rrafaelgomes-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-  <img align="center" alt="rrafaelgomes-Unity" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"> 
+  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JAVASCRIPT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+  <img align="center" alt="Unity" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"> 
   
   
   
-  <img align="center" alt="rrafaelgomes-VisualStudioCode" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="rrafaelgomes-Canva" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-  <img align="center" alt="rrafaelgomes-Figma" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="VisualStudioCode" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Canva" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+  <img align="center" alt="Figma" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
 ## 🌐 Socials
@@ -34,4 +34,4 @@
  <a href="https://www.linkedin.com/in/rrafaelgomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/rrrafaelgomes/rrrafaelgomes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rrafaelgomes/rrafaelgomes/blob/output/github-contribution-grid-snake.svg)

@@ -1,7 +1,5 @@
 ## Welcome to my profile! My name is Rafael Gomes de Almeida 👋
 
-- 📫 Professional email: rafael.gomes.25022003@gmail.com
-
 <div>
   <a href="https://github.com/rRafaelGomes">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=rRafaelGomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
